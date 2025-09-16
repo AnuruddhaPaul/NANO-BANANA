@@ -146,8 +146,7 @@ movie/          # Sample media asset (nano-banana.mp4)
 - Async endpoint calls for parallel variants
 - Optional persistent key via env var
 
-## License
-MIT (add a LICENSE file if desired)
+
 
 ---
 Happy creating! 🍌
